@@ -1,0 +1,20 @@
+
+.Header-container{
+    background-color: var(--cor-2);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-arround;
+}
+.imgLogoPq{
+
+    width: 100px;
+
+}
+.lblHeader{
+
+    color: var(--cor-1);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+
+}
