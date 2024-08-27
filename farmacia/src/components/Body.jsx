@@ -29,7 +29,7 @@ Hoje, a Farmácia Saúde & Vida é mais do que uma farmácia – é um ponto de 
 Obrigado por fazer parte da nossa história. Juntos, continuaremos a trilhar o caminho do cuidado e da excelência.</label>
 
                 <label className='nossosProdutos'>Nossos Produtos</label>
-                <img className='imgCamisetas1' src="/images/farmarciaCamiseta1.png" alt="" />
+                <img className='imgCamisetas1e2' src="/images/farmarciaCamisetas1.png" alt="" /><img className='imgCamisetas1e2' src="/images/farmarciaCamiseta2.png" alt="" />
                 <label className='textoNossosProdutos'>Na Farmácia Saúde & Vida, oferecemos uma vasta gama de produtos para atender às suas necessidades de saúde e bem-estar:
 
 Medicamentos e Prescrições: Medicamentos de qualidade e orientações especializadas.
