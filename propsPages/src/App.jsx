@@ -3,6 +3,8 @@ import './App.css'
 import Cadastro from './pages/Cadastro'
 import Home from './pages/Home'
 import Sorteio from './pages/Sorteio'
+import Dado from './pages/Dado'
+import Exercicios from './pages/Exercicios'
 
 
 function App() {
@@ -13,7 +15,10 @@ function App() {
 
       {/* <Home/> */}
       {/* <Cadastro /> */}
-      <Sorteio/>
+      {/* <Sorteio/> */}
+      {/* <Dado/> */}
+      <Exercicios/>
+
 
     </div>
   )

@@ -3,7 +3,8 @@
     display: flex;
    flex-direction: column;
    align-items: center;
-   gap: 100px;
+   gap: 50px;
+   background-color: #9ddb9d;
    
 }
 .btnSortear{
@@ -14,6 +15,7 @@
     border-radius: 180px;
     background-color: #222;
     color: #fff;
+   
 
 }
 .btnSortear:hover{
@@ -27,5 +29,59 @@
     border-radius: 180px;
     background-color: #222;
     color: #fff;
+    box-shadow: 0 0 15px #00ff00;
+
+}
+.numero-container{
+    font-size: 100px;
+    width: 100px;
+    border: 3px solid;
+    background-color: #d8f8d8;
+    border-radius: 10px;
+    
+
+}
+.btnAumentar{
+
+    border: solid 2px;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    font-size: 50px;
+
+
+}
+.btnAumentar:hover{
+
+    cursor: pointer;
+    border: solid 2px;
+    border-radius: 100px;
+    width: 73px;
+    height: 73px;
+    box-shadow: 0 0 15px #00ff00;
+
+
+}
+.btnDiminuir{
+
+    border: solid 2px;
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+    font-size: 50px;
+
+
+}
+.btnDiminuir:hover{
+
+    cursor: pointer;
+    border: solid 2px;
+    border-radius: 100px;
+    width: 73px;
+    height: 73px;
+    box-shadow: 0 0 15px #00ff00;
+
 
 }
