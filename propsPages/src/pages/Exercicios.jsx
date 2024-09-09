@@ -29,7 +29,10 @@ function Exercicios() {
        
 
     }
+
+
     const [notas, setNotas]= useState()
+
     function rodar526(){
 
       let vetorNotas=[]
@@ -91,7 +94,7 @@ function Exercicios() {
   return (
     <div className="porquinho-container">
 
-    <Titulo text={"Porquinho"} emoji={"🐖"}/>
+    <Titulo text={"Exercícios 5.25 e 5.26"} emoji={"🧾"}/>
 
     <div className="elementoBtnExercicio">
 
