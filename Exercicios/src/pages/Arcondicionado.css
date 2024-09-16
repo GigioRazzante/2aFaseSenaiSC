@@ -1,0 +1,18 @@
+.input-celcius{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input-farenheit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inputsContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
