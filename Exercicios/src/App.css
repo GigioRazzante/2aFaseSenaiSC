@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+.buttonsExercicios-container{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  background-color: rgb(39, 37, 37);
+  border-radius: 10px;
+  padding: 10px;
+
+}
