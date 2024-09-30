@@ -1,0 +1,32 @@
+.divFila-container{
+
+    background-color: var(--cor-3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 15px;
+    
+}
+.btnsFila{
+    
+    background-color: var(--cor-2);
+    border-radius: 12px;
+    margin: 0;
+    border: 0;
+    width:200px ;
+    height: 40px; 
+    font-size: large;
+   
+}
+.senhas-container{
+
+    display: flex;
+    background-color: var(--cor-3);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
