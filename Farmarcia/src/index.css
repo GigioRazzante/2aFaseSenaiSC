@@ -16,4 +16,6 @@
 html, body, #root{
   min-height: 100vh;
   background-color: beige;
+  margin: 0;
+  border: 0;
 }

@@ -2,5 +2,7 @@
   
   background-color: var(--cor-1);
   color: var(--cor-2);
+  margin: 0;
+  border: 0;
 
 }

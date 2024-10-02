@@ -31,12 +31,12 @@ function Fila() {
   
   function atender(){
     if (filaP.length){
-      alert( filaP[0].numero)
+      alert( "Senha: "+filaP[0].numero+  " " +filaP[0].tipo+" \nAtendido(a)")
       setFilaP(filaP.slice(1))
       return
     }
     if(fila.length){
-     alert( fila[0].numero)
+     alert( "Senha: "+fila[0].numero+ " " +fila[0].tipo+" \nAtendido(a)")
      setFila(fila.slice(1))
      return
     }
