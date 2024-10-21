@@ -1,10 +1,11 @@
 import './Header.css'
+import Logo from './Logo'
 
 function Header(){
     return(
         <div className='Header-container'>
 
-            <img className='imgLogoPq' src="/images/farmarciaLogoPq.png" alt="" />
+            <Logo />
             <label className='lblHeader'>Farmárcia</label>
            
         </div>

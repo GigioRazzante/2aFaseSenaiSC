@@ -1,0 +1,39 @@
+.buttonFC-container{
+
+    background-color: var(--cor-3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 15px;
+    padding:  20px;
+    
+}
+.btnFc{
+
+    background-color: var(--cor-4);
+    color: azure;
+    border-radius: 12px;
+    margin: 3px;
+    border: solid 2px color( rgb(255, 255, 255)) ;
+    width:400px ;
+    height: 55px; 
+    font-size: large;
+    cursor: pointer;
+    
+
+}
+.btnFc:hover{
+
+    background-color: var(--cor-1);
+    color: rgb(7, 2, 4);
+    border-radius: 12px;
+    margin: 3px ;
+    border:0 ;
+    width:400px ;
+    height: 55px; 
+    font-size: large;
+    scale: 1.05;
+    
+
+}
